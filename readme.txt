@@ -1,4 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+# Advocacy-Department-Sharing-Website(ADSW)
+## 翠园中学学生会宣传部摄影作品分享网站
+**2022/10/30 计划开始实施**
